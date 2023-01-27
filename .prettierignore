@@ -1,0 +1,9 @@
+build
+node_modules
+public
+.vscode
+.next
+next-env.d.ts
+next.config.js
+postcss.config
+tailwind.config.js

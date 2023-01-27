@@ -1,0 +1,4 @@
+1. generate prettierrc file
+echo {}> .prettierrc.json
+
+2.
